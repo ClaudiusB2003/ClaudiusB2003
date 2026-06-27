@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Claudius 👋
 
-<!--
-**ClaudiusB2003/ClaudiusB2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CCNA-certified Network Engineer** with a passion for enterprise networking, Cisco technologies, and network automation.
 
-Here are some ideas to get you started:
+I'm currently expanding my skills by building hands-on networking labs, documenting real-world projects, and learning Ansible for network automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+* 🌐 Enterprise Networking
+* 🛠️ Cisco Modeling Labs (CML)
+* 📡 Routing & Switching
+* 🤖 Ansible for Network Automation
+* 📚 Continuous Learning
+
+## 🧰 Tech Stack
+
+### Networking
+- Cisco IOS
+- ArubaOS
+- Routing & Switching
+- VLANs
+- STP
+- EtherChannel
+- OSPF
+- ACLs
+- NAT
+- IPv4 / IPv6
+- DHCP
+- DNS
+- SSH
+
+### Virtualization & Infrastructure
+- Hyper-V
+- VirtualBox
+- VMware Workstation Pro
+- Linux
+
+### Automation & Tools
+- Ansible
+- Git & GitHub
+
+## 📂 Featured Repositories
+
+* **network-projects** – Enterprise networking labs built with Cisco Modeling Labs
+* **apprenticeship Projects** – Real-world projects completed during my apprenticeship
+
+## 🎯 Goals
+
+* Build a strong portfolio of enterprise networking projects
+* Deepen my automation skills
+* Earn the CCNP Enterprise certification
+* Continue developing practical networking solutions
+
+---
+
+*"Always learning. Always building."*
