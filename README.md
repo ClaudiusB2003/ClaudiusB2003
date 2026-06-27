@@ -5,7 +5,7 @@ I'm currently expanding my skills by building hands-on networking labs, document
 
 ## 🏆 Certifications
 
-[![CCNA Badge](https://images.credly.com/size/220x220/images/832f84f1-955f-42d0-941f-66b07006d8ae/image.png)](https://www.credly.com/badges/832f84f1-955f-42d0-941f-66b07006d8ae)
+[![CCNA Badge](https://images.credly.com/images/832f84f1-955f-42d0-941f-66b07006d8ae/blob)](https://www.credly.com/badges/832f84f1-955f-42d0-941f-66b07006d8ae)
 
 ## 🚀 Current Focus
 
