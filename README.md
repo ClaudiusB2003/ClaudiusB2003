@@ -1,8 +1,11 @@
 # Hi there, I'm Claudius 👋
 
-**CCNA-certified Network Engineer** with a passion for enterprise networking, Cisco technologies, and network automation.
-
+**CCNA-certified Network Engineer** with a passion for enterprise networking, Cisco technologies, and network automation. 
 I'm currently expanding my skills by building hands-on networking labs, documenting real-world projects, and learning Ansible for network automation.
+
+## 🏆 Certifications
+
+[![CCNA](https://images.credly.com/size/220x220/images/832f84f1-955f-42d0-941f-66b07006d8ae/image.png)](https://www.credly.com/badges/832f84f1-955f-42d0-941f-66b07006d8ae).
 
 ## 🚀 Current Focus
 
