@@ -45,7 +45,7 @@ I'm currently expanding my skills by building hands-on networking labs, document
 ## 📂 Featured Repositories
 
 * **network-projects** – Enterprise networking labs built with Cisco Modeling Labs
-* **apprenticeship Projects** – Real-world projects completed during my apprenticeship
+* **apprenticeship-projects** – Real-world projects completed during my apprenticeship
 
 ## 🎯 Goals
 
