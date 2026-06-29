@@ -13,7 +13,7 @@ I'm currently expanding my skills by building hands-on networking labs, document
 * 🛠️ Cisco Modeling Labs (CML)
 * 📡 Routing & Switching
 * 🤖 Ansible for Network Automation
-* 📚 Continuous Learning
+* 📚 Completing my apprenticeship as an IT Specialist for System Integration
 
 ## 🧰 Tech Stack
 
