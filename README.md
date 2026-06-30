@@ -41,6 +41,7 @@ I'm currently expanding my skills by building hands-on networking labs, document
 ### Automation & Tools
 - Ansible
 - Git & GitHub
+- Wireshark
 
 ## 📂 Featured Repositories
 
