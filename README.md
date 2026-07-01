@@ -1,7 +1,7 @@
 # Hi there, I'm Claudius 👋
 
 **CCNA-certified Network Engineer** with a passion for enterprise networking, Cisco technologies, and network automation. 
-I'm currently expanding my skills by building hands-on networking labs, documenting real-world projects, and learning Ansible for network automation.
+I'm currently expanding my skills by building hands-on networking labs, documenting real-world projects, and learning Python for network automation.
 
 ## 🏆 Certifications
 
@@ -12,7 +12,7 @@ I'm currently expanding my skills by building hands-on networking labs, document
 * 🌐 Enterprise Networking
 * 🛠️ Cisco Modeling Labs (CML)
 * 📡 Routing & Switching
-* 🤖 Ansible for Network Automation
+* 🤖 Python for Network Automation
 * 📚 Completing my apprenticeship as an IT Specialist for System Integration
 
 ## 🧰 Tech Stack
@@ -39,7 +39,7 @@ I'm currently expanding my skills by building hands-on networking labs, document
 - Linux
 
 ### Automation & Tools
-- Ansible
+- Python
 - Git & GitHub
 - Wireshark
 
