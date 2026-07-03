@@ -36,7 +36,7 @@ I'm currently expanding my skills by building hands-on networking labs, document
 - Hyper-V
 - VirtualBox
 - VMware Workstation Pro
-- Linux
+- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
 
 ### Automation & Tools
 - Python
