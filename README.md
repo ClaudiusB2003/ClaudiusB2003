@@ -36,12 +36,11 @@ I'm currently expanding my skills by building hands-on networking labs, document
 - Hyper-V
 - VirtualBox
 - VMware Workstation Pro
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg">
+- Linux
 
 ### Automation & Tools
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg>
+- Python
+- Git and Github
 - Wireshark
 
 ## 📂 Featured Repositories
