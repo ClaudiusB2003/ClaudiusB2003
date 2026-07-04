@@ -1,6 +1,6 @@
 # Hi there, I'm Claudius 👋
 
-**CCNA-certified Network Engineer** with a passion for enterprise networking, Cisco technologies, and network automation. 
+**CCNA-certified german Network Engineer** with a passion for enterprise networking, Cisco technologies, and network automation. 
 I'm currently expanding my skills by building hands-on networking labs, documenting real-world projects, and learning Python for network automation.
 
 ## 🏆 Certifications
