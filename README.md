@@ -50,4 +50,4 @@
 * Deepen my automation skills for security-relevant tasks 
 * Study IT Security to build a formal foundation alongside my practical experience
 ---
-*"Always learning. Always building. Now building more securely."*
+*"Always learning. Always building"*
