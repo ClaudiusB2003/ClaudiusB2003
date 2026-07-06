@@ -7,7 +7,7 @@
  
 ## 🚀 Current Focus
 * 🌐 Enterprise Networking & Routing/Switching
-* 🔐 Network Security fundamentals (ACLs, segmentation, hardening)
+* 🔐 Network Security fundamentals 
 * 🛠️ Cisco Modeling Labs (CML) for building and breaking test environments
 * 🤖 Python for network automation and scripting
 * 📚 Completing my apprenticeship as an IT Specialist for System Integration
