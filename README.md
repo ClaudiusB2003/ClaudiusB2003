@@ -23,6 +23,7 @@
 - EtherChannel
 - OSPF
 - ACLs & Access Control
+- Firewalls
 - NAT
 - IPv4 / IPv6
 - DHCP
