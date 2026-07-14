@@ -48,7 +48,7 @@
 ## 🎯 Goals
 * Build a portfolio of projects 
 * Deepen my understanding of network security
-* Deepen my automation skills for security-relevant tasks 
+* Deepen Python Knowledge
 * Study IT Security to build a formal foundation alongside my practical experience
 ---
 *"Always learning. Always building"*
