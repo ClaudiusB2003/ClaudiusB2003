@@ -1,6 +1,6 @@
 # Hi there, I'm Claudius 👋
  
-**German IT enthusiast** with a passion for networking and a growing focus on **IT Security**. I hold my CCNA and I'm currently completing my apprenticeship as an IT Specialist for System Integration. Along the way I've come to see that most of what makes a network *work* — segmentation, access control, visibility — is also what makes it *secure*. I'm building hands-on labs and projects that sit right at that intersection, alongside learning Python for network automation.
+**German IT enthusiast** with a passion for networking and a growing focus on **IT Security**. I hold my CCNA and I'm currently completing my apprenticeship as an IT Specialist for System Integration. Along the way I've come to see that most of what makes a network *work* — segmentation, access control, visibility — is also what makes it *secure*. I'm building hands-on labs and projects that sit right at that intersection, alongside learning Python for infrastructure.
  
 ## 🏆 Certifications
 [CCNA Badge](https://www.credly.com/badges/832f84f1-955f-42d0-941f-66b07006d8ae)
